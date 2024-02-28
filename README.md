@@ -45,7 +45,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your-username/booking-com-clone.git
+git clone https://github.com/MohamedOmarMoussa/booking-clone.git
 Navigate to the project directory:
 
 bash
