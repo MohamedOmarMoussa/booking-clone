@@ -1,14 +1,18 @@
-Booking.com Clone with Next.js 14
+## 📋 <a name="table">Table of Contents</a>
+
+1. 🤖 [Introduction](#introduction)
+2. 🔋 [Features](#features)
+2. ⚙️ [Tech Stack](#tech-stack)
+4. 🤸 [Quick Start](#quick-start)
+5. 🚀 [Usage](#usage)
+6. 🤝 [Contributing](#contributing)
+
+## <a name="introduction">🤖 Introduction</a>
+
 Welcome to the Booking.com Clone repository, built with Next.js 14! This project aims to replicate the functionality and design of the popular hotel booking platform, Booking.com, while leveraging the latest features and technologies offered by Next.js.
 
-.Table of Contents
-.Features
-.Technologies Used
-.Installation
-.Usage
-.Contributing
-.License
-.Features
+## <a name="features">🔋 Features</a>
+
 In this project, you'll explore various aspects of web development and gain hands-on experience in building a modern booking platform. Some of the key features include:
 
 Server Components & Client Components: Learn to effectively utilize Server Components and Client Components in Next.js 14, with comprehensive examples provided.
@@ -23,7 +27,7 @@ TypeScript for Bug Reduction: Leverage TypeScript to reduce the overall number o
 
 Deployment on Vercel: Learn how to deploy your final booking.com clone on Vercel, a powerful platform for hosting and deploying modern web applications, ensuring seamless accessibility for users worldwide.
 
-Technologies Used
+## <a name="tech-stack">⚙️ Tech Stack</a>
 This project makes use of the following technologies:
 
 Next.js 14: A popular React framework for building server-rendered web applications.
@@ -33,7 +37,8 @@ Shadcn: A highly popular design system for creating beautiful user interfaces.
 Tailwind CSS: A utility-first CSS framework for building responsive and customizable designs.
 TypeScript: A statically typed superset of JavaScript that enhances code quality and maintainability.
 Vercel: A cloud platform for deploying serverless functions and static websites.
-Installation
+
+## <a name="quick-start">🤸 Quick Start</a>
 To run this project locally, follow these steps:
 
 Clone the repository to your local machine:
@@ -57,10 +62,10 @@ Copy code
 npm run dev
 Open your web browser and navigate to http://localhost:3000 to view the application.
 
-Usage
+## <a name="usage">🚀 Usage</a>
 Once the application is running locally, you can explore its features and functionalities. Refer to the documentation and code comments for detailed explanations of each feature. Feel free to experiment with the code and customize it according to your preferences.
 
-Contributing
+## <a name="contributing">🤝 Contributing</a>
 Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
 
 Fork the repository.
@@ -68,6 +73,3 @@ Create a new branch for your feature or bug fix.
 Make your changes and commit them with descriptive messages.
 Push your changes to your fork.
 Submit a pull request to the main repository's main branch.
-License
-This project is licensed under the MIT License.
-
